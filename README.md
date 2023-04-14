@@ -1,2 +1,2 @@
 # SimpleBankSystem
-this project was create for my studing
+This project was create for my studing
